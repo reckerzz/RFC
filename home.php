@@ -18,7 +18,7 @@
             background-position: center center;
             background-repeat: no-repeat;
         }
-
+    
        #radio-wealthlogo{
             background-image:url('images/radiowealth-logo.png');   
             height : 269px;
