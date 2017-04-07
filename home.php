@@ -17,6 +17,7 @@
             background-image:url('images/bg-1.png');
             background-position: center center;
             background-repeat: no-repeat;
+            background-size:cover;
         }
     
        #radio-wealthlogo{
